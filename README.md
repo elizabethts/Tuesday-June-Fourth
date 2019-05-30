@@ -1,4 +1,4 @@
-# Walkie Talkie: Tuesday, June 3rd. 
+# Code Walkie Talkie: Tuesday, June 3rd. 
 
 In breakout groups of 2-4 people each, you will **pair program** through **exploratory data analysis** of `survey.csv`, in this repo. 
 
