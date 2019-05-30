@@ -8,4 +8,6 @@ As a group, write up a **report** that describes the data visually and statistic
 
 _Fork this repo_ and commit your notebook into your fork.
 
-At `8:45`, if you like the results you got, volunteer to show us!  
+At `8:45`, if you like the results you got, volunteer to show us! 
+
+Commits for this activity are not graded. 
